@@ -14,21 +14,17 @@
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-right oii-links">
             <li><a class="scroll hidden" href="#home"></a></li>
-            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/about") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/about">About</a></li>
-            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/initiatives") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/initiatives">Initiatives</a></li>
-            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/become-member") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/become-member">Become a member</a></li>
-            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/events") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/events">Events</a></li>
-            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/news") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/news">News</a></li>
-            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/contact") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/contact">Contact</a></li>
+            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/about") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/about">About TSC SciGW</a></li>
+            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/contact") !== false) class="active" @endif><a class="scroll" href="http://www.oii.org/tandy-supercomputing-center">Find Out More!</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
-    </div>  
+    </div>
 
     <link href='https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Arvo:400,700' rel='stylesheet' type='text/css'>
-    
-    
+
+
     <!--[if IE 9]>
         <script src="js/PIE_IE9.js"></script>
     <![endif]-->
