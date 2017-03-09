@@ -16,12 +16,13 @@
 			<hr/>
 			<a href="{{ URL::to('/') }}/login"><h4>Login</h4></a><hr/>
 			<a href="{{ URL::to('/') }}/create"><h4>Register</h4></a><hr/>
+            <a href="https://portal.oii.org/display/desktop/Tandy+Information+Center"><h4>User Portal</h4></a><hr/>
 		</div>
-		
+
 		<div class="col-md-6 scigap-info">
-			<h1 >Why Supercomputing?</h1>
+			<h1 >TSC Science Gateway</h1>
 			<p style="color:#cccccc;">
-				Supercomputing simplifies and boosts modeling simulation, helps to make better use of computational expertise and create manufacturing apps.<br/>
+				<h2>Welcome!</h2><br/> The TSC Science Gateway is a friendly way to access the Tandy Supercomputing Cluster.<br/>
 			</p>
 			<hr/>
 			<button class="btn btn-primary btn-lg">Accelerate Research</button>
@@ -38,8 +39,9 @@
 
 	<div class="row">
 		<div class="col-md-offset-2 col-md-8">
-			
+
 
 		</div>
 	</div>
 </div>
+
