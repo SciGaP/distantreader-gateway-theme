@@ -17,11 +17,11 @@ body{
     margin-top: 100px;
 }
 
-.oii-logo img{
+.searching-sra-logo img{
     width: 305px;
 }
 
-.oii-links{
+.searching-sra-links{
     font-size:1.2em;
 		position: relative;
     margin-top:10px;
@@ -45,14 +45,18 @@ body{
 	margin-top: 100px;
 }
 
-.panel-body > .form-group, .queue-block {
+.panel-body > .form-group, .queue-block, .compute-resource-summary-page, .wall-time-summary-page, .cpu-count-summary-page, .node-count-summary-page, .queue-summary-page {
 	display: none;
 }
+/*
+.compute-resource-summary {
+	display:none;
+} */
 
 /*
 	Custom Styling Ends
 */
-.oii-top-banner {
+.searching-sra-top-banner {
 	width: 100%;
   background:url('../img/sra-top-banner.png') no-repeat center center;
   background-size:cover;
