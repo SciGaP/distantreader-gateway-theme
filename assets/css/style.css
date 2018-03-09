@@ -10,28 +10,58 @@ body{
     width:135px;
     height:35px;
     margin-top:7px;
-        background-size: cover;
+    background-size: cover;
 }
 
 .top-space{
     margin-top: 100px;
 }
 
-.oii-logo img{
-    width: 300px;
+.searching-sra-logo img{
+    width: 305px;
 }
 
-.oii-links{
+.searching-sra-links{
     font-size:1.2em;
-    margin-top:20px;
+		position: relative;
+    margin-top:10px;
+		margin-bottom: 10px;
 }
 
-.oii-top-banner {
+/*
+	Custom Styling Begins [Searching SRA Theme changes JIRA - Airavata -2706]
+ */
+.theme-header > .navbar > .container-fluid > .navbar-header {
+	margin-left: -17px;
+	margin-top: -15px;
+}
+
+.theme-header > .navbar > .container-fluid > .navbar-header > .navbar-toggle > .icon-bar{
+	color: #29638D;
+	background-color: #29638D;
+}
+
+.credits {
+	margin-top: 100px;
+}
+
+.panel-body > .form-group, .queue-block, .compute-resource-summary-page, .wall-time-summary-page, .cpu-count-summary-page, .node-count-summary-page, .queue-summary-page {
+	display: none;
+}
+/*
+.compute-resource-summary {
+	display:none;
+} */
+
+/*
+	Custom Styling Ends
+*/
+.searching-sra-top-banner {
 	width: 100%;
-    background:url('../img/banner.png') no-repeat center center;
-    background-size:cover;
-    height:200px;
-  }
+  background:url('../img/sra-top-banner.png') no-repeat center center;
+  background-size:cover;
+	height:235px;
+}
 
 .hero-unit h1 {
     color: #FFFFFF;
@@ -55,10 +85,50 @@ body{
 @media (min-width: 768px) and (max-width: 979px) { ... }
 
 /* Landscape phone to portrait tablet */
-@media (max-width: 767px) { ... }
+@media (max-width: 767px) {
+	.pga-header {
+		margin-top: 10px;
+	}
+
+	.theme-header > .navbar > .container-fluid > .navbar-header > .navbar-toggle {
+		margin-top: 30px;
+		z-index: 500;
+	}
+
+	.theme-header > .navbar > .container-fluid > .navbar-header {
+		margin-left: -30px;
+		margin-top: -15px;
+	}
+
+	.theme-header > .navbar > .container-fluid > .navbar-collapse {
+		margin-top: 20px;
+		background: #cccccc;
+	}
+
+	.navbar > .container { max-width: 100%; padding: 0; }
+}
 
 /* Landscape phones and down */
-@media (max-width: 480px) { ... }
+@media (max-width: 480px) {
+	.pga-header {
+		margin-top: 10px;
+	}
+
+	.theme-header > .navbar > .container-fluid > .navbar-header > .navbar-toggle {
+		margin-top: 30px;
+		z-index: 500;
+	}
+
+	.theme-header > .navbar > .container-fluid > .navbar-header {
+		margin-left: -30px;
+		margin-top: -15px;
+	}
+
+	.theme-header > .navbar > .container-fluid > .navbar-collapse {
+		margin-top: 20px;
+		background: #cccccc;
+	}
+}
 
 
 .blue-bg{
