@@ -56,12 +56,11 @@ body{
 /*
 	Custom Styling Ends
 */
-.searching-sra-top-banner {
+/* .searching-sra-top-banner {
 	width: 100%;
-  background:url('../img/sra-top-banner.png') no-repeat center center;
   background-size:cover;
 	height:235px;
-}
+} */
 
 .hero-unit h1 {
     color: #FFFFFF;

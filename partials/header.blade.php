@@ -9,11 +9,11 @@
           </button>
           <a class="navbar-brand scroll" href="{{ URL::to('/') }}">
             <!-- SRA Logo Made with LogoMakr.com -->
-            <span class="oii-logo"><img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/sra-logo.png"/></span>
+            <span class="searching-sra-logo"><img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/sra-logo.png"/></span>
           </a>
         </div>
         <div class="collapse navbar-collapse">
-          <ul class="nav navbar-nav navbar-right oii-links">
+          <ul class="nav navbar-nav navbar-right searching-sra-links">
             <li><a class="scroll hidden" href="#home"></a></li>
             <li @if(strpos($_SERVER['REQUEST_URI'], "pages/about") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/documentation">Documentation</a></li>
             <li @if(strpos($_SERVER['REQUEST_URI'], "pages/contact") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/about">About</a></li>
