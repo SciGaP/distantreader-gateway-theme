@@ -20,7 +20,23 @@
             <li>To create new projects or experiments navigate through the menu bar on top.</li>
             <li>What is a Project? - Project is a collection of experiments, it groups experiments. When creating an experiment, you can select which project to create with.</li>
             <li>What is an Experiment? - Experiment is the gateway record you create in order to launch a job in a remote cluster/supercomputer/HPC.</li>
-  </ul>
+          </ul>
+    <hr/>
+    <h5>Creating & Browsing Projects</h5>
+    <ul style="list-style-type:square">
+      <li>To create a new Projecy from the top menu, navigate to Project &rarr; Create</li>
+      <li>Provide;</li>
+        <ul style="list-style-type:square">
+            <li>Project Name (Mandatory)</li>
+            <li>Project Description (Optional)</li>
+            <li>Sharing Settings (Optional)</li>
+        </ul>
+      <li>Save</li>
+      <br/>
+      <li>To browse existing projects, from top menu, navigate Projects &rarr; Browse </li>
+      <li>All your previous projects will be listed. To view the experiments within a project, select a proejct and click 'View'.</li>
+      <li>You are now in 'Project Summary' page. You can view all the experiments created under the project. Click on experiment name to view individual experimetns. </li>
+    </ul>
     <p></p>
 
 </div>
