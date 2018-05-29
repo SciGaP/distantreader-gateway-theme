@@ -11,11 +11,11 @@
           <li>When gateway administrator grants access, you would receive a notification email.</li>
           <li>Login to the gateway, You are ready to Search thorugh the SRA!</li>
         </ul>
-
+    <hr/>
       <h5>Getting Started</h5>
           <ul style="list-style-type:square">
             <li>When logged in you would be in your home page, User Dashboard.</li>
-            <li>You would see</li>
+            <li>Two placeholders, 'Browse Projects' and 'Browse Experiments'</li>
             <li>As a gateway user, you could browse your old projects or experiments using 'Browse Projects' or 'Browse Experiments'.</li>
             <li>To create new projects or experiments navigate through the menu bar on top.</li>
             <li>What is a Project? - Project is a collection of experiments, it groups experiments. When creating an experiment, you can select which project to create with.</li>
