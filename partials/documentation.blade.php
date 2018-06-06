@@ -9,8 +9,9 @@
           <li>Create a gateway account in https://www.searchsra.org/. Use 'Create account'. Provide your details and you will receive an email for account verification.</li>
           <li>Click the link in the email received and confirm your email. Hint: The email sometimes tend to land on 'Junk email' or 'Trash'.</li>
           <li>When gateway administrator grants access, you would receive a notification email.</li>
-          <li>Login to the gateway, You are ready to Search thorugh the SRA!</li>
+          <li>Login to the gateway, You are ready to Search through the SRA!</li>
         </ul>
+        <img src="img/search-sra-login.jpg" alt="Gateway Login Page" style="width:500px;height:600px;">
     <hr/>
       <h5>Getting Started</h5>
           <ul style="list-style-type:square">
@@ -24,7 +25,7 @@
     <hr/>
     <h5>Creating & Browsing Projects</h5>
     <ul style="list-style-type:square">
-      <li>To create a new Projecy from the top menu, navigate to Project &rarr; Create</li>
+      <li>To create a new Project from the top menu, navigate to Project &rarr; Create</li>
       <li>Provide;</li>
         <ul style="list-style-type:square">
             <li>Project Name (Mandatory)</li>
@@ -34,8 +35,8 @@
       <li>Save</li>
       <br/>
       <li>To browse existing projects, from top menu, navigate Projects &rarr; Browse </li>
-      <li>All your previous projects will be listed. To view the experiments within a project, select a proejct and click 'View'.</li>
-      <li>You are now in 'Project Summary' page. You can view all the experiments created under the project. Click on experiment name to view individual experimetns. </li>
+      <li>All your previous projects will be listed. To view the experiments within a project, select a project and click 'View'.</li>
+      <li>You are now in 'Project Summary' page. You can view all the experiments created under the project. Click on experiment name to view individual experiments. </li>
     </ul>
     <p></p>
 
