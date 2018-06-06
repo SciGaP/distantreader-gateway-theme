@@ -11,7 +11,7 @@
           <li>When gateway administrator grants access, you would receive a notification email.</li>
           <li>Login to the gateway, You are ready to Search through the SRA!</li>
         </ul>
-        <img src="../assets/img/search-sra-login.png" alt="Gateway Login Page" style="width:500px;height:600px;">
+        <img src="../img/search-sra-login.png" alt="Gateway Login Page" style="width:500px;height:600px;">
     <hr/>
       <h5>Getting Started</h5>
           <ul style="list-style-type:square">
