@@ -23,6 +23,36 @@
             <li>What is an Experiment? - Experiment is the gateway record you create in order to launch a job in a remote cluster/supercomputer/HPC.</li>
           </ul>
     <hr/>
+       <h5>Save & Launch an Experiment</h5>
+        <ul style="list-style-type:square">
+          <li>To create a new Experiment from the top menu, navigate to Experiment &rarr; Create</li>
+          <li>Provide;</li>
+            <ul style="list-style-type:square">
+                <li>Experiment Name (Mandatory)</li>
+                <li>Experiment Description (Optional)</li>
+                <li>Project (LOV) - Latest will be the default choice.</li>
+                <li>Application (LOV)</li>
+            </ul>
+          <li>Continue</li>
+                    <li>Provide;</li>
+              <ul style="list-style-type:square">
+                  <li>Sharing Settings (Optional) - Share with fellow gateway users.</li>
+                  <li>Application Inputs (Mandatory)</li>
+              </ul>
+          <li>Save & Launch</li>
+          <br/>
+          <li>When providing Application inputs; </li>
+              <ul style="list-style-type:square">
+                  <li>Experiment Name (Mandatory)</li>
+                  <li>Experiment Description (Optional)</li>
+                  <li>Project (LOV) - Latest will be the default choice.</li>
+                  <li>Application (LOV)</li>
+              </ul>
+          <li>All your previous projects will be listed. To view the experiments within a project, select a project and click 'View'.</li>
+          <li>You are now in 'Project Summary' page. You can view all the experiments created under the project. Click on experiment name to view individual experiments. </li>
+        </ul>
+        <p></p>
+    <hr/>
     <h5>Creating & Browsing Projects</h5>
     <ul style="list-style-type:square">
       <li>To create a new Project from the top menu, navigate to Project &rarr; Create</li>
