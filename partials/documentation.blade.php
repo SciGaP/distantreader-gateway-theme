@@ -11,7 +11,7 @@
           <li>When gateway administrator grants access, you would receive a notification email.</li>
           <li>Login to the gateway, You are ready to Search through the SRA!</li>
         </ul>
-        <img src="assets/img/search-sra-login.png" alt="Gateway Login Page" style="width:500px;height:600px;">
+        <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/search-sra-login.png" alt="Gateway Login Page" style="width:500px;height:600px;">
     <hr/>
       <h5>Getting Started</h5>
           <ul style="list-style-type:square">
@@ -61,7 +61,7 @@
              </ul>
        <li>Sharing experiment can be done at any time, at the time of creating, while processing and after the experiment is completed.</li>
        <li>To create new experiments similar to an existing one, you can clone the experimnet from ;Experiment Summary' page.</li>
-
+    <hr/>
     <h5>Creating & Browsing Projects</h5>
     <ul style="list-style-type:square">
       <li>To create a new Project from the top menu, navigate to Project &rarr; Create</li>
