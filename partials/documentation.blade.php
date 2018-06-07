@@ -43,16 +43,25 @@
           <br/>
           <li>When providing Application inputs; </li>
               <ul style="list-style-type:square">
-                  <li>Experiment Name (Mandatory)</li>
-                  <li>Experiment Description (Optional)</li>
-                  <li>Project (LOV) - Latest will be the default choice.</li>
-                  <li>Application (LOV)</li>
+                  <li>Fasta-Reference-File (Mandatory)</li>
+                  <li>Select existing Search IDs File OR Upload your own below (Mandatory) - The default is to upload user's own file. Use can also select another option fro the available list. </li>
+                  <li>Optional Input Files - This is where you upload your own Search IDs file.</li>
               </ul>
-          <li>All your previous projects will be listed. To view the experiments within a project, select a project and click 'View'.</li>
-          <li>You are now in 'Project Summary' page. You can view all the experiments created under the project. Click on experiment name to view individual experiments. </li>
+          <li>After providing the files you could 'Save' the experiment for later submission. If saved you could edit the experiment prior to launching.</li>
+          <li>Once launched, you could cancel the experiment, which will cancel the job running in remote cluster. </li>
         </ul>
         <p></p>
     <hr/>
+    <h5>Other Gateway Features</h5>
+    <ul style="list-style-type:square">
+      <li>Users can share their experiments with other gateway users. When sharing, can decide on level of access to grant.</li>
+         <ul style="list-style-type:square">
+             <li>Read Access</li>
+             <li>Write Access</li>
+             </ul>
+       <li>Sharing experiment can be done at any time, at the time of creating, while processing and after the experiment is completed.</li>
+       <li>To create new experiments similar to an existing one, you can clone the experimnet from ;Experiment Summary' page.</li>
+
     <h5>Creating & Browsing Projects</h5>
     <ul style="list-style-type:square">
       <li>To create a new Project from the top menu, navigate to Project &rarr; Create</li>
