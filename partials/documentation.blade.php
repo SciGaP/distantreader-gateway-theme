@@ -11,7 +11,7 @@
           <li>When gateway administrator grants access, you would receive a notification email.</li>
           <li>Login to the gateway, You are ready to Search through the SRA!</li>
         </ul>
-        <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/search-sra-login.png" alt="Gateway Login Page" style="width:500px;height:600px;">
+        <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/search-sra-login.png" alt="Gateway Login Page" style="width:500px;height:300px;" class="img-border">
     <hr/>
       <h5>Getting Started</h5>
           <ul style="list-style-type:square">
@@ -22,6 +22,7 @@
             <li>What is a Project? - Project is a collection of experiments, it groups experiments. When creating an experiment, you can select which project to create with.</li>
             <li>What is an Experiment? - Experiment is the gateway record you create in order to launch a job in a remote cluster/supercomputer/HPC.</li>
           </ul>
+          <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/dashboard.png" alt="Gateway Dashboard" style="width:500px;height:300px;" class="img-border">
     <hr/>
        <h5>Save & Launch an Experiment</h5>
         <ul style="list-style-type:square">
