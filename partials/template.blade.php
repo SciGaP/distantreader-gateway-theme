@@ -29,8 +29,9 @@
       <hr/>
       <!-- <button class="btn btn-primary btn-lg">Accelerate Research</button> -->
       <p style="font-size:14px; margin-top:20px;">
-        The Sequence Read Archive is NCBI’s flagship database that makes biological sequence data available to the research community to enhance reproducibility and allow for new discoveries by comparing data sets. Searching SRA gateway is part of the joint project that will innovate a resource that will allow researchers to explore data in the SRA.
+        We are generating sequence data at an alarming rate! The <a href="https://www.ncbi.nlm.nih.gov/sra/">Sequence Read Archive</a> currently contains ~10 petabases of sequence data (~1016 bp) and through 2016 has grown at approximately 10 TB of sequence data per day. We’re here to help you search through that data and find meaning to your own data! At searchsra.org we have identified the metagenomics data in the sequence read archive using the open source <a href="https://github.com/linsalrob/partie/">PARTIE</a>, and we provide both nucleotide and protein searches so that you can explore that data. Click on one of the buttons to learn more, or register to create an account and get started.
       </p>
+      <a href="proteinsearch.php" class="button">Protein Search</a>
       <div class="col-md-6 credits">
         <div class="thumbnail" style="border:none">
           <img class="img-responsive" src="assets/scigap-header-logo.png" alt="SciGaP">
