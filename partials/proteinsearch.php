@@ -7,8 +7,7 @@
 
     <br></br>
     The command that we currently use for diamond is:
-    <br></br>
-    <p><b><i>
+    <p style="font-size:16px; margin-top:20px;"><b><i>
     diamond blastx -f 6 qseqid sseqid pident length mismatch qstart qend sstart send evalue bitscore sseq qseq -d DATA -q  SRAMG -o SRAID.m8
     </i></b></a>
     <br></br>
