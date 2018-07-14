@@ -1,107 +1,3 @@
-Last login: Tue Jun 26 23:07:42 2018 from 45-16-202-192.lightspeed.iplsin.sbcglobal.net
-[pga@pga-scigap-develop ~]$ ls
-airavata-file-manager  cron  nohup.out  portals
-[pga@pga-scigap-develop ~]$
-[pga@pga-scigap-develop ~]$
-[pga@pga-scigap-develop ~]$
-[pga@pga-scigap-develop ~]$ cd portals/
-
-▽
-[pga@pga-scigap-develop portals]$ ls
-dev-scigap  dev-seagrid  dev-testapplication  dev-testdrive  django-seagrid  gateway-user-data  group-based-auth-seagrid
-[pga@pga-scigap-develop portals]$
-[pga@pga-scigap-develop portals]$
-[pga@pga-scigap-develop portals]$
-[pga@pga-scigap-develop portals]$ cd dev-testdrive/
-[pga@pga-scigap-develop dev-testdrive]$ ls
-app  artisan  bootstrap  composer.bat  composer.json  composer.lock  phpunit.xml  public  README  server.php  vendor
-[pga@pga-scigap-develop dev-testdrive]$
-[pga@pga-scigap-develop dev-testdrive]$
-[pga@pga-scigap-develop dev-testdrive]$
-[pga@pga-scigap-develop dev-testdrive]$ cd public/
-[pga@pga-scigap-develop public]$ ls
-assets  css  favicon.ico  fonts  index.php  js  robots.txt  themes
-[pga@pga-scigap-develop public]$
-[pga@pga-scigap-develop public]$
-[pga@pga-scigap-develop public]$
-[pga@pga-scigap-develop public]$ cd themes/
-[pga@pga-scigap-develop themes]$ ls
-base  README  searchingsra-gateway-theme
-[pga@pga-scigap-develop themes]$
-[pga@pga-scigap-develop themes]$
-[pga@pga-scigap-develop themes]$
-[pga@pga-scigap-develop themes]$
-[pga@pga-scigap-develop themes]$ cd searchingsra-gateway-theme/
-[pga@pga-scigap-develop searchingsra-gateway-theme]$ git pull
-remote: Counting objects: 18, done.
-remote: Compressing objects: 100% (14/14), done.
-remote: Total 18 (delta 9), reused 13 (delta 4), pack-reused 0
-Unpacking objects: 100% (18/18), done.
-From https://github.com/SciGaP/searchingsra-gateway-theme
-   55dfa2f..7c61663  master     -> origin/master
-Updating 55dfa2f..7c61663
-error: Your local changes to the following files would be overwritten by merge:
-	assets/css/custom-style.css
-	partials/documentation.blade.php
-Please, commit your changes or stash them before you can merge.
-error: The following untracked working tree files would be overwritten by merge:
-	assets/img/Dashboard.png
-Please move or remove them before you can merge.
-Aborting
-[pga@pga-scigap-develop searchingsra-gateway-theme]$ ls
-assets  layouts  LICENSE  partials  README.md  views
-[pga@pga-scigap-develop searchingsra-gateway-theme]$ cd assets/
-[pga@pga-scigap-develop assets]$ ls
-css  img  js
-[pga@pga-scigap-develop assets]$
-[pga@pga-scigap-develop assets]$
-[pga@pga-scigap-develop assets]$
-[pga@pga-scigap-develop assets]$ cd css/
-[pga@pga-scigap-develop css]$ ls
-custom-style.css  style.css
-[pga@pga-scigap-develop css]$
-[pga@pga-scigap-develop css]$
-[pga@pga-scigap-develop css]$
-[pga@pga-scigap-develop css]$ vi custom-style.css
-[pga@pga-scigap-develop css]$
-[pga@pga-scigap-develop css]$
-[pga@pga-scigap-develop css]$
-[pga@pga-scigap-develop css]$
-[pga@pga-scigap-develop css]$
-[pga@pga-scigap-develop css]$ cd ..
-[pga@pga-scigap-develop assets]$ ls
-css  img  js
-[pga@pga-scigap-develop assets]$
-[pga@pga-scigap-develop assets]$
-[pga@pga-scigap-develop assets]$
-[pga@pga-scigap-develop assets]$
-[pga@pga-scigap-develop assets]$ cd ..
-[pga@pga-scigap-develop searchingsra-gateway-theme]$ ls
-assets  layouts  LICENSE  partials  README.md  views
-[pga@pga-scigap-develop searchingsra-gateway-theme]$ pwd
-/home/pga/portals/dev-testdrive/public/themes/searchingsra-gateway-theme
-[pga@pga-scigap-develop searchingsra-gateway-theme]$
-[pga@pga-scigap-develop searchingsra-gateway-theme]$
-[pga@pga-scigap-develop searchingsra-gateway-theme]$
-[pga@pga-scigap-develop searchingsra-gateway-theme]$
-[pga@pga-scigap-develop searchingsra-gateway-theme]$ git pull
-remote: Counting objects: 5, done.
-remote: Compressing objects: 100% (3/3), done.
-remote: Total 5 (delta 2), reused 5 (delta 2), pack-reused 0
-Unpacking objects: 100% (5/5), done.
-From https://github.com/SciGaP/searchingsra-gateway-theme
-   7c61663..797492c  master     -> origin/master
-Updating 55dfa2f..797492c
-error: Your local changes to the following files would be overwritten by merge:
-	assets/css/custom-style.css
-	partials/documentation.blade.php
-Please, commit your changes or stash them before you can merge.
-error: The following untracked working tree files would be overwritten by merge:
-	assets/img/Dashboard.png
-Please move or remove them before you can merge.
-Aborting
-
-▽
 <div class="container">
   <h2 class="text-center">Training and Documentation</h2>
     <hr class="separation-line blue-bg"/>
@@ -126,7 +22,7 @@ Aborting
             <li>What is a Project? - Project is a collection of experiments, it groups experiments. When creating an experiment, you can select which project to create with.</li>
             <li>What is an Experiment? - Experiment is the gateway record you create in order to launch a job in a remote cluster/supercomputer/HPC.</li>
           </ul>
-        <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/Dashboard.png" alt="Gateway Dashboard" style="width:500px;height:300px;" class="img-border">
+          <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/Dashboard.png" alt="Gateway Dashboard" style="width:500px;height:300px;" class="img-border">
     <hr/>
        <h5>Save & Launch an Experiment</h5>
         <ul style="list-style-type:square">
@@ -158,4 +54,30 @@ Aborting
         <p></p>
     <hr/>
     <h5>Other Gateway Features</h5>
-"documentation.blade.php" 83L, 5105C                                                                                                                                                                                        25,9          Top
+    <ul style="list-style-type:square">
+      <li>Users can share their experiments with other gateway users. When sharing, can decide on level of access to grant.</li>
+         <ul style="list-style-type:square">
+             <li>Read Access</li>
+             <li>Write Access</li>
+             </ul>
+       <li>Sharing experiment can be done at any time, at the time of creating, while processing and after the experiment is completed.</li>
+       <li>To create new experiments similar to an existing one, you can clone the experimnet from ;Experiment Summary' page.</li>
+    <hr/>
+    <h5>Creating & Browsing Projects</h5>
+    <ul style="list-style-type:square">
+      <li>To create a new Project from the top menu, navigate to Project &rarr; Create</li>
+      <li>Provide;</li>
+        <ul style="list-style-type:square">
+            <li>Project Name (Mandatory)</li>
+            <li>Project Description (Optional)</li>
+            <li>Sharing Settings (Optional)</li>
+        </ul>
+      <li>Save</li>
+      <br/>
+      <li>To browse existing projects, from top menu, navigate Projects &rarr; Browse </li>
+      <li>All your previous projects will be listed. To view the experiments within a project, select a project and click 'View'.</li>
+      <li>You are now in 'Project Summary' page. You can view all the experiments created under the project. Click on experiment name to view individual experiments. </li>
+    </ul>
+    <p></p>
+
+</div>
