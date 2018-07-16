@@ -26,23 +26,23 @@
     <ul style="list-style-type:square">
     <li style="font-size:18px">Virus PhiX174 - a Common Contaminant of Metagenomes</li></ul></p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/cn5i00ygg-w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    <br><br></br>&nbsp;
+    <br></br>&nbsp;
     <ul style="list-style-type:square">
     <li style="font-size:18px">Contractile Injection Systems (CIS) in the Sequence Read Archive</li></ul></p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/uJkBOY2XeX8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    <br><br></br>&nbsp;
+    <br></br>&nbsp;
     <ul style="list-style-type:square">
     <li style="font-size:18px">Antibiotic Resistance in Patients Undergoing Immune Checkpoint Therapy</li></ul></p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/a_K4asDZwvw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    <br><br></br>&nbsp;
+    <br></br>&nbsp;
     <ul style="list-style-type:square">
     <li style="font-size:18px">Antibiotic Resistance In Patients Undergoing Selective Digestive Deconatmination</li></ul></p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/-dX_ijbDOkA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    <br><br></br>&nbsp;
+    <br></br>&nbsp;
     <ul style="list-style-type:square">
     <li style="font-size:18px">Can Antibiotic Resistance Genes in the Human Skin Microbiome be Spread Through Swimming Pools?</li></ul></p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/x_qWwKJBT7M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    <br><br></br>&nbsp;
+    <br></br>&nbsp;
     <ul style="list-style-type:square">
     <li style="font-size:18px">Antibiotic Resistance Genes in Cystic Fibrosis Lung Metagenomes</li></ul></p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/CwijuLSJm8M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
