@@ -15,4 +15,9 @@
     </p>
     <br><br>
     <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/metagenomenumber.png" style="width:500px;height:300px;" class="img-border"></img>
+
+    In 2018 students at SDSU used the underpinnings of searchsra.org to develop independent research projects to explore metagenomes.
+    Watch their videos to understand more about their amazing research stories:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cTqNDb3VKzk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 </div>
