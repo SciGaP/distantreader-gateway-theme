@@ -19,8 +19,9 @@
     In 2018 students at SDSU used the underpinnings of searchsra.org to develop independent research projects to explore metagenomes.
     Watch their videos to understand more about their amazing research stories:
     </p>
+    <p style="font-size:18px; margin-top:20px;" align="left">
     <ul style="list-style-type:square">
-    <li style="font-size:18px;>What Viruses are Carried by Mosquitos in Southern California?</li>
+    <li>What Viruses are Carried by Mosquitos in Southern California?</li></ul></p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/cTqNDb3VKzk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 </div>
