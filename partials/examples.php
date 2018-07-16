@@ -1,5 +1,5 @@
 <div class="container">
-  <h2 class="text-center">Training and Documentation</h2>
+  <h2 class="text-center">Examples</h2>
     <hr class="separation-line blue-bg"/>
     <p style="font-size:18px; margin-top:20px;" align="left">
     Rob has searched the SRA hundreds of times for crAssphage and this figure shows the abundance of crAssphage across 10,260 metagenomes that contain it.
@@ -14,5 +14,5 @@
     The boxes at the bottom show the positions of individual genes along the genome.
     </p>
     <br><br>
-    <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/metagenomenumber.png" style="width:500px;height:300px;" class="img-border">
+    <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/metagenomenumber" style="width:500px;height:300px;" class="img-border">
 </div>
