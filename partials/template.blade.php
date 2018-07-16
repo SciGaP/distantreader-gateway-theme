@@ -37,8 +37,9 @@
         <p style="font-size:18px; margin-top:20px;">
         Click on one of the buttons to learn more, or register to create an account and get started.
       </p>
+      <br>
       <p align="left">
-      <a href="pages/proteinsearch" class="button" target="_blank" align="left">Protein Search</a>&nbsp; &nbsp; &nbsp;<a href="pages/nucleotidesearch" class="button" target="_blank">Nucleotide Search</a>
+      <a href="pages/proteinsearch" class="button" target="_blank">Protein Search</a>&nbsp; &nbsp; &nbsp;<a href="pages/nucleotidesearch" class="button" target="_blank">Nucleotide Search</a>
       </p>
       <div class="col-md-6 credits">
         <div class="thumbnail" style="border:none">
