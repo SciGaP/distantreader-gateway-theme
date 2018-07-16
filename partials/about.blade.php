@@ -14,7 +14,7 @@
         With an initial trial allocation of compute resources, Rob was able to identify thousands of metagenomes that contain crAssphage. As soon as Rob described this approach, other people wanted to search their data against the SRA, and so Rob needed a solution that didn’t involve his email!
         </p>
         <p style="font-size:18px; margin-top:20px;" align="left">
-        Taking advantage of the XSEDEs Extended Collaborative Support Services (ECSS), Rob teamed up with Eroma Abeysinghe who developed the front end and Mats Rynge who developed the back end of the search system.
+        Taking advantage of the XSEDEs Extended Collaborative Support Services (ECSS), Rob teamed up with Eroma Abeysinghe from <a href="https://scigap.org/">SciGP team</a> who deployed and configured the gateway front end and Mats Rynge who developed the back end of the search system.
         </p>
         <p style="font-size:18px; margin-top:20px;" align="left">
         The computation is provided through grant number TG-MCB170036 from XSEDE. This work used the Extreme Science and Engineering Discovery Environment (XSEDE), which is supported by National Science Foundation grant number ACI-1548562.
