@@ -31,9 +31,10 @@
       <p style="font-size:18px; margin-top:20px;">
         We are generating sequence data at an alarming rate! The <a href="https://www.ncbi.nlm.nih.gov/sra/">Sequence Read Archive</a> currently contains ~10 petabases of sequence data (~1016 bp) and through 2016 has grown at approximately 10 TB of sequence data per day. We’re here to help you search through that data and find meaning to your own data!
       </p>
-        <br></br><p style="font-size:18px; margin-top:20px;">
+        <p style="font-size:18px; margin-top:20px;">
         At searchsra.org we have identified the metagenomics data in the sequence read archive using the open source <a href="https://github.com/linsalrob/partie/">PARTIE</a>, and we provide both nucleotide and protein searches so that you can explore that data.
-
+        </p>
+        <p style="font-size:18px; margin-top:20px;">
         Click on one of the buttons to learn more, or register to create an account and get started.
       </p>
       <a href="pages/proteinsearch" class="button" target="_blank">Protein Search</a>&nbsp; &nbsp; &nbsp;<a href="pages/nucleotidesearch" class="button" target="_blank">Nucleotide Search</a>
