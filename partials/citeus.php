@@ -9,7 +9,7 @@
         Please be sure to not only cite searchsra.org, but to also cite the tools that we have used to build this amazing resource.
         </p>
         <p style="font-size:18px; margin-top:20px;" align="left">
-        You can download the <a href="/images/ref.tex" download>bibtex</a> file with these citations and import that into your favorite reference manager.
+        You can download the <a href="/imag/ref.tex/" download>bibtex file</a> with these citations and import that into your favorite reference manager.
         </p>
         <ul style="list-style-type:square">
         <li style="font-size:18px">Levi, Kyle Rynge, Mats Abeysinghe, Eroma, and Edwards, Robert A. Searching the Sequence Read Archive using Jetstream and WranglerPEARC 18.</li></ul>
