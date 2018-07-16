@@ -14,5 +14,5 @@
     The boxes at the bottom show the positions of individual genes along the genome.
     </p>
     <br><br>
-    <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/metagenomenumber.png" alt="Metagenome Number" style="width:500px;height:300px;" class="img-border">
+    <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/metagenomenumber.png" style="width:500px;height:300px;" class="img-border"></img>
 </div>
