@@ -21,7 +21,7 @@
     </p>
     <p style="font-size:18px; margin-top:20px;" align="left">
     <ul style="list-style-type:square">
-    <li>What Viruses are Carried by Mosquitos in Southern California?</li></ul></p>
+    <li tyle="font-size:18px">What Viruses are Carried by Mosquitos in Southern California?</li></ul></p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/cTqNDb3VKzk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 </div>
