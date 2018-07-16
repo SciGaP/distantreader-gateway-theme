@@ -39,7 +39,7 @@
       </p>
       <br>
       <p align="left">
-      <a href="pages/proteinsearch" class="button" target="_blank">Protein Search</a>&nbsp; &nbsp; &nbsp;<a href="pages/nucleotidesearch" class="button" target="_blank">Nucleotide Search</a>
+      <a href="pages/proteinsearch" class="button">Protein Search</a>&nbsp; &nbsp; &nbsp;<a href="pages/nucleotidesearch" class="button"">Nucleotide Search</a>&nbsp; &nbsp; &nbsp;<a href="pages/metagenomes" class="button" target="_blank">
       </p>
       <div class="col-md-6 credits">
         <div class="thumbnail" style="border:none">
