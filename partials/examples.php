@@ -22,7 +22,7 @@
     <ul style="list-style-type:square">
     <li style="font-size:18px">What Viruses are Carried by Mosquitoes in Southern California?</li></ul></p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/cTqNDb3VKzk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    <br><br>
+    <br><br></br>
     <ul style="list-style-type:square">
     <li style="font-size:18px">Virus PhiX174 - a Common Contaminant of Metagenomes</li></ul></p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/cn5i00ygg-w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
