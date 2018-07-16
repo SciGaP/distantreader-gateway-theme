@@ -20,7 +20,15 @@
     Watch their videos to understand more about their amazing research stories:
     </p>
     <ul style="list-style-type:square">
-    <li tyle="font-size:18px">What Viruses are Carried by Mosquitos in Southern California?</li></ul></p>
+    <li style="font-size:18px">What Viruses are Carried by Mosquitoes in Southern California?</li></ul></p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/cTqNDb3VKzk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <ul style="list-style-type:square">
+    <li style="font-size:18px">Virus PhiX174 - a Common Contaminant of Metagenomes</li></ul></p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/cn5i00ygg-w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <ul style="list-style-type:square">
+    <li style="font-size:18px">Contractile Injection Systems (CIS) in the Sequence Read Archive</li></ul></p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/uJkBOY2XeX8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen
+
+
 
 </div>
