@@ -20,7 +20,7 @@
     Watch their videos to understand more about their amazing research stories:
     </p>
     <ul style="list-style-type:square">
-    <li>What Viruses are Carried by Mosquitos in Southern California?</li>
+    <li style="font-size:18px;>What Viruses are Carried by Mosquitos in Southern California?</li>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/cTqNDb3VKzk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 </div>
