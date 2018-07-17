@@ -14,7 +14,7 @@
     The boxes at the bottom show the positions of individual genes along the genome.
     </p>
     <br><br>
-    <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/metagenomenumber.png" style="width:500px;height:300px;" class="img-border"></img>
+    <img src="/themes/searchingsra-gateway-theme/assets/img/metagenomenumber.png" style="width:500px;height:300px;" class="img-border"></img>
     <p style="font-size:18px; margin-top:20px;" align="left">
     In 2018 students at SDSU used the underpinnings of searchsra.org to develop independent research projects to explore metagenomes.
     Watch their videos to understand more about their amazing research stories:
