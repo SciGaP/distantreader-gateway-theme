@@ -12,7 +12,7 @@
     </i></b></a>
     <br></br>
     <p style="font-size:18px; margin-top:20px;">
-    SRAMG is one of our preprocessed <a href="pages/metagenomes">metagenomes</a>, and DATA is the fasta file that you upload.
+    SRAMG is one of our preprocessed <a href="/metagenomes">metagenomes</a>, and DATA is the fasta file that you upload.
     <br></br>
     Register or login to get started searching.
 
