@@ -21,7 +21,7 @@
     What this means for you is that we are liable to false negatives in our search: when we demonstrate a sequence is present, it really is. However, if we do not report hits to a metagenome, it is possible that there are a few sequences in the metagenome that would match your query that we don’t report. That is the trade-off we have to make to get you results in a reasonable time!
     </p>
     <p style="font-size:18px; margin-top:20px;">
-    <a href="pages/searchids/">Here is a list</a> of the current sequence data sets available.
+    <a href="/themes/searchingsra-gateway-theme/assets/img/sra_ids.txt" download>Here is a list</a> of the current sequence data sets available.
     </p>
     <br></br>
     <p style="font-size:18px; margin-top:20px;">
