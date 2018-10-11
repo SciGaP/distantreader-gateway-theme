@@ -21,6 +21,11 @@
         <li style="font-size:18px" align="left">Langmead B, Salzberg SL. 2012. Fast gapped-read alignment with Bowtie 2. Nat Methods 9:357–359.</li>
         </ul>
         <br></br>
+        <h4>Acknowledgements</h4>
+        <p style="font-size:18px; margin-top:20px;" align="left">
+        This work used the Extreme Science and Engineering Discovery  Environment (XSEDE), which is supported by National Science Foundation grant number ACI-1548562.
+        Development of the Apache Airavata used to develop the science gateway is supported by NSF award #1339774. XSEDE resources used include JetStream and Wrangler at Indiana University through allocation TG-MCB170036.
+        </p>
     </div>
   </div>
 </div>
