@@ -45,7 +45,7 @@ body{
 	margin-top: 100px;
 }
 
-.panel-body > .form-group, .queue-block, .compute-resource-summary-page, .wall-time-summary-page, .cpu-count-summary-page, .node-count-summary-page, .queue-summary-page, .compute-resource-summary, .compute-resource {
+.panel-body > .form-group, .queue-block, .compute-resource-summary-page, .wall-time-summary-page, .cpu-count-summary-page, .node-count-summary-page, .queue-summary-page, .compute-resource {
 	display: none;
 }
 /*
