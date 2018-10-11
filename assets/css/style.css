@@ -48,10 +48,10 @@ body{
 .panel-body > .form-group, .queue-block, .compute-resource-summary-page, .wall-time-summary-page, .cpu-count-summary-page, .node-count-summary-page, .queue-summary-page {
 	display: none;
 }
-/*
-.compute-resource-summary {
+
+.compute-resource-summary, .compute-resource {
 	display:none;
-} */
+}
 
 /*
 	Custom Styling Ends
