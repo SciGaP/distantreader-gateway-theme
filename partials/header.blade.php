@@ -1,4 +1,4 @@
-<title>Searching SRA Gateway</title>
+<title>Distant Reader Gateway</title>
 <div id="navbar" class="navbar">
       <div class="container-fluid">
         <div class="navbar-header">
