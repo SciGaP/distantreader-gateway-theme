@@ -8,14 +8,13 @@
             <span class="icon-bar"></span>
           </button>
           <a class="navbar-brand scroll" href="{{ URL::to('/') }}">
-            <!-- SRA Logo Made with LogoMakr.com -->
-            <span class="searching-sra-logo"><img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/sra-logo.png"/></span>
+            <span class="searching-sra-logo"><img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/dreader-logo.png"/></span>
           </a>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-right searching-sra-links">
             <li><a class="scroll hidden" href="#home"></a></li>
-            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/about") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/documentation">Documentation</a></li>
+            <a class="scroll" href="{{ URL::to('/') }}/pages/documentation">Documentation</a></li>
             <li @if(strpos($_SERVER['REQUEST_URI'], "pages/contact") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/about">About</a></li>
             <li @if(strpos($_SERVER['REQUEST_URI'], "pages/contact") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/contact">Contact</a></li>
             <li @if(strpos($_SERVER['REQUEST_URI'], "pages/examples") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/examples">Examples</a></li>
