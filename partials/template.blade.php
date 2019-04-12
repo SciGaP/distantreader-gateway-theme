@@ -10,7 +10,7 @@
 <div class="col-md-12 breathing-space">
   <div class="row">
     <div class="col-md-offset-1 col-md-2">
-      <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/sra-logo.png" width="100%"/>
+      <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/distantreader-logo.png" width="100%"/>
       <hr/>
       <a href="{{ URL::to('/') }}/login">
         <h4>Login</h4>
@@ -22,24 +22,24 @@
       <hr/>
     </div>
     <div class="col-md-offset-1 col-md-8 scigap-info">
-      <h1>Searching SRA Gateway</h1>
+      <h1>Distant Reader Gateway</h1>
       <p style="color:#cccccc;">
       <h2>Welcome!</h2>
       </p>
       <hr/>
       <!-- <button class="btn btn-primary btn-lg">Accelerate Research</button> -->
       <p style="font-size:18px; margin-top:20px;">
-        We are generating sequence data at an alarming rate! The <a href="https://www.ncbi.nlm.nih.gov/sra/">Sequence Read Archive</a> currently contains ~10 petabytes of sequence data (~1016 pb) and through 2016 has grown at approximately 10 TB of sequence data per day. We’re here to help you search through that data and find meaning to your own data!
+       Add your welcome message to the gateway
       </p>
         <p style="font-size:18px; margin-top:20px;">
-        At searchsra.org we have identified the metagenomics data in the sequence read archive using the open source <a href="https://github.com/linsalrob/partie/">PARTIE</a>, and we provide both nucleotide and protein searches so that you can explore that data.
+        Say what you are providing, the services and the benefits users can receive from the gateway and the application.
         </p>
         <p style="font-size:18px; margin-top:20px;">
         Click on one of the buttons to learn more, or register to create an account and get started.
       </p>
       <br>
       <p align="left">
-      <a href="pages/proteinsearch" class="button-sra">Protein Search</a>&nbsp; &nbsp; &nbsp;<a href="pages/nucleotidesearch" class="button-sra"">Nucleotide Search</a>&nbsp; &nbsp; &nbsp;<a href="pages/metagenomes" class="button-sra">Metagenomes</a>
+      <a href="pages/distantreadersearch" class="button-sra">Distant Reader Search</a>&nbsp; &nbsp; &nbsp;<a href="pages/distantreadersearch2" class="button-sra"">More Distant Reader Information</a>&nbsp; &nbsp; &nbsp;<a href="pages/distantreadersearch3" class="button-sra">And More</a>
       </p>
       <div class="col-md-6 credits">
         <div class="thumbnail" style="border:none">
