@@ -22,9 +22,9 @@
       <hr/>
     </div>
     <div class="col-md-offset-1 col-md-8 scigap-info">
-      <h1>Distant Reader Gateway</h1>
+      <h1>Distant Reader Home Page</h1>
       <p style="color:#cccccc;">
-      <h2>Welcome!</h2>
+      <h2>Hello, World!</h2>
       </p>
       <hr/>
       <!-- <button class="btn btn-primary btn-lg">Accelerate Research</button> -->
