@@ -5,7 +5,7 @@
         <hr class="separation-line blue-bg"/>
 
         <p style="font-size:18px; margin-top:20px;" align="left">
-        Please add details about Distant Reader Application, services, etc....
+        Please add details about Distant Reader Application, services, Project PI, etc....
         </p>
         <br></br>
     </div>
