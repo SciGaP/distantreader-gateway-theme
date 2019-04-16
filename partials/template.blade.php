@@ -22,7 +22,7 @@
       <hr/>
     </div>
     <div class="col-md-offset-1 col-md-8 scigap-info">
-      <h1>Distant Reader Home Page</h1>
+      <h1>Distant Reader - use &amp; understand your texts</h1>
       <p style="color:#cccccc;">
       <h2>Hello, World!</h2>
       </p>
