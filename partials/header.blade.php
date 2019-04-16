@@ -7,9 +7,11 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
+          <!--
           <a class="navbar-brand scroll" href="{{ URL::to('/') }}">
             <span class="searching-sra-logo"><img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/dreader-logo.png"/></span>
           </a>
+          -->
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-right searching-sra-links">
