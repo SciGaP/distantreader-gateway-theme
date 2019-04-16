@@ -1,82 +1,26 @@
-<div>
-  <!--
-  <img class="img-responsive" src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/sra-top-banner.png" width="100%"/>
-    <h1>Hero Image</h1>
-    <h2>This is a simple hero unit, a simple jumbotron-style component for calling extra 7
-    attention to featured content or information.</h2>
-    <p><a class="btn btn-primary btn-large">Learn more</a></p>
-    -->
-</div>
-<div class="col-md-12 breathing-space">
-  <div class="row">
-    <div class="col-md-offset-1 col-md-2">
-      <img src="{{ URL::to('/') }}/themes/{{Session::get('theme')}}/assets/img/distantreader-logo.png" width="100%"/>
-      <hr/>
-      <a href="{{ URL::to('/') }}/login">
-        <h4>Login</h4>
-      </a>
-      <hr/>
-      <a href="{{ URL::to('/') }}/create">
-        <h4>Register</h4>
-      </a>
-      <hr/>
-    </div>
-    <div class="col-md-offset-1 col-md-8 scigap-info">
-      <h1>Distant Reader - use &amp; understand your texts</h1>
-      <p style="color:#cccccc;">
-      <h2>Hello, World!</h2>
-      </p>
-      <hr/>
-      <!-- <button class="btn btn-primary btn-lg">Accelerate Research</button> -->
-      <p style="font-size:18px; margin-top:20px;">
-       Add your welcome message to the gateway
-      </p>
-        <p style="font-size:18px; margin-top:20px;">
-        Say what you are providing, the services and the benefits users can receive from the gateway and the application.
+<div class="container">
+  <div class="content">
+    <div class="text-center">
+        <h2 class="text-center">Home</h2>
+        <hr class="separation-line blue-bg"/>
+        <p style="font-size:18px; margin-top:20px;" align="left">
+        The Distant Reader is a tool for reading.
         </p>
-        <p style="font-size:18px; margin-top:20px;">
-        Click on one of the buttons to learn more, or register to create an account and get started.
-      </p>
-      <br>
-      <p align="left">
-      <a href="pages/distantreadersearch" class="button-sra">Distant Reader Search</a>&nbsp; &nbsp; &nbsp;<a href="pages/distantreadersearch2" class="button-sra"">More Distant Reader Information</a>&nbsp; &nbsp; &nbsp;<a href="pages/distantreadersearch3" class="button-sra">And More</a>
-      </p>
-      <div class="col-md-6 credits">
-        <div class="thumbnail" style="border:none">
-          <img class="img-responsive" src="assets/scigap-header-logo.png" alt="SciGaP">
-          <div class="caption">
-            <p>
-              SciGaP is a hosted service with a public API that science gateways can use to manage
-              applications and workflows running on remote supercomputers, as well as other services. Gateway
-              developers can thus concentrate their efforts on building their scientific communities and not
-              worry about operations.
-            </p>
-            <p>
-              Science Gateway Platform as a Service (SciGaP) provides application programmer interfaces (APIs)
-              to hosted generic infrastructure services that can be used by domain science communities to
-              create Science Gateways.
-            </p>
-            <p><a href="http://scigap.org/"
-              target="_blank">Learn more <span class="glyphicon glyphicon-new-window"></span></a></p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6 credits">
-        <div class="thumbnail" style="border:none">
-          <img src="assets/powered-by-airavata-transparent.png" width="260px" alt="Apache Airavata">
-          <div class="caption">
-            <p>
-              Apache Airavata is a software framework which is dominantly used to build Web-based science
-              gateways and assist to compose, manage, execute and monitor large scale applications and
-              workflows on distributed computing resources such as local clusters, supercomputers, national
-              grids, academic and commercial clouds. Airavata mainly supports long running applications and
-              workflows on distributed computational resources.
-            </p>
-            <p><a href="http://airavata.apache.org/" target="_blank">Learn more <span
-              class="glyphicon glyphicon-new-window"></span></a></p>
-          </div>
-        </div>
-      </div>
+        <p style="font-size:18px; margin-top:20px;" align="left">
+        The Distant Reader empowers you to <em>use &amp; understand</em> large amounts of textual information both quickly &amp; easily. For example, the Distant Reader can consume the entire issue of a scholarly journal, the complete works of a given author, or the content found at the other end of an arbitrarily long list of URLs. Thus, the Distant Reader is akin to a book's table-of-contents or back-of-the-book index but at scale. It simplifies the process of identifying trends &amp; anomalies in a corpus, and then it enables you to further investigate those trends &amp; anomalies.
+        </p>
+        <p style="font-size:18px; margin-top:20px;" align="left">
+        Technically speaking, the Distant Reader is a system which locally harvests/caches content you specify. It then transforms the content into plain text, performs sets of natural language processing &amp; text mining against the text, saves the results in a number of formats, reduces the whole to a cross-platform database file, queries the database thus summarizing the collection, zips the results of the entire process into a single file, and makes the file available to you for further investigation -- "reading".
+        </p>
+		<p style="font-size:18px; margin-top:20px;" align="left">
+		I don't know about you, but now-a-days I can find plenty of scholarly &amp; authoritative content. My problem is not one of discovery but instead one of comprehension. How do I make sense of all the content I find? The Distant Reader is intended to address this question by making observations against a corpus and providing tools for interpreting the results. It is my hope you will find the tool as useful as I do.
+		</p>
+		<p style="font-size:18px; margin-top:20px;" align="right">
+		Eric Lease Morgan &lt;<a href="mailto:emorgan@nd.edu">emorgan@nd.edu</a>&gt;<br />
+		April 16, 2019
+		</p>
+
+
     </div>
   </div>
 </div>
