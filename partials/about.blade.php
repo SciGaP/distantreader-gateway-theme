@@ -14,7 +14,6 @@
 		I don't know about you, but now-a-days I can find plenty of scholarly &amp; authoritative content. My problem is not one of discovery but instead one of comprehension. How do I make sense of all the content I find? The Distant Reader is intended to address this question by making observations against a corpus and providing tools for interpreting the results. It is my hope you will find the tool as useful as I do.
 		</p>
 		<p style="font-size:18px; margin-top:20px;" align="right">
-		<hr />
 		Eric Lease Morgan &lt;<a href="mailto:emorgan@nd.edu">emorgan@nd.edu</a>&gt;<br />
 		April 16, 2019
 		</p>
