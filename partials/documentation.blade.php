@@ -12,11 +12,11 @@
 		<ol style="font-size:18px; margin-top:20px;" align="left">
 			<li>Articulate a research question: What do you want to know?</li>
 			<li>Identify one of three different types of input pointing to the content you want to "read": 1) a URL, 2) a file of URLS, or 3) just about any set of files.</li>
-			<li>If you haven't already done so create an account.</li>
-			<li>Log in.</li>
-			<li>Submit your input.</li>
+			<li>If you haven't already done so <a href="/create">create an account</a>.</li>
+			<li><a href="/login">Log in</a>.</li>
+			<li><a href="/experiment/create">Submit your input</a>.</li>
 			<li>Wait.</li>
-			<li>Download the resulting Distant Reader "study carrel".</li>
+			<li><a href="/experiment/browse">Download</a> the resulting Distant Reader "study carrel".</li>
 			<li>Use the "study carrel" to supplement your usual reading process.</li>
 		</ol>
 		<p style="font-size:18px; margin-top:20px;" align="left">
