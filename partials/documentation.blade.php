@@ -3,6 +3,7 @@
     <div class="text-center">
         <h2 class="text-center">Documentation</h2>
         <hr class="separation-line blue-bg"/>
+     </div>
         <p style="font-size:18px; margin-top:20px;" align="left">
         There are four or five steps for to getting the Distant Reader to work for you:</p>
         <ol>
@@ -22,6 +23,5 @@
 		</p>
 
 
-    </div>
   </div>
 </div>
