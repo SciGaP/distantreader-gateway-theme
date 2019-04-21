@@ -32,7 +32,7 @@
 		</p>
 		<h3>Create an account</h3>
 		<p style="font-size:18px; margin-top:20px;" align="left">
-		The Distant Reader process creates its "study carrel" for you, and consequently the Reader needs to who who to give its results to.
+		The Distant Reader process creates its "study carrel" for you, and consequently the Reader needs to know to whom to give its output.
 		</p>
 		<h3>Log in</h3>
 		<p style="font-size:18px; margin-top:20px;" align="left">
