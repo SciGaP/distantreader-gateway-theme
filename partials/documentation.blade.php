@@ -6,15 +6,15 @@
      </div>
         <p style="font-size:18px; margin-top:20px;" align="left">
         There are four or five steps for to getting the Distant Reader to work for you:</p>
-        <ol>
+        		<ol style="font-size:18px; margin-top:20px;" align="right">
         <li>Articulate a research question: What do you want to know?</li>
-        <li>Identify one of three different types of input pointing to the content you want to "read". They include: a URL, a file of URLS, or a set of files</li>
+        <li>Identify one of three different types of input pointing to the content you want to "read". The input includes: a URL, a file of URLS, or just about any set of files</li>
         <li>If you haven't already done so create an account</li>
         <li>Log in</li>
         <li>Submit your input</li>
         <li>Wait</li>
-        <li>Download & analyze the results</li>
-        <li>Use the results to assisting in traditional reading method</li>
+        <li>Download the results</li>
+        <li>Use the results the results to supplement your usual reading process</li>
         </ol>
         
         		<p style="font-size:18px; margin-top:20px;" align="right">
