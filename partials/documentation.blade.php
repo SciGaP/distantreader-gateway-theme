@@ -15,7 +15,7 @@
 			<li>If you haven't already done so <a href="/create">create an account</a>.</li>
 			<li><a href="/login">Log in</a>.</li>
 			<li><a href="/experiment/create">Submit your input</a>.</li>
-			<li>Wait.</li>
+			<li><a href="/experiment/browse">Wait</a>.</li>
 			<li><a href="/experiment/browse">Download</a> the resulting Distant Reader "study carrel".</li>
 			<li>Use the "study carrel" to supplement your usual reading process.</li>
 		</ol>
