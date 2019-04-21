@@ -7,4 +7,6 @@
     <h4>Distant Reader Gateway Sample Input Files</h4>
 
 
+	<h1>Documentation</h1>
+	
 </div>
