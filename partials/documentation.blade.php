@@ -21,8 +21,6 @@
 		</ol>
 		<p style="font-size:18px; margin-top:20px;" align="left">
 		There is a lot of information there, and believe me, the process is faster the second time around.</p>
-		<p style="font-size:18px; margin-top:20px;" align="left">Each of the followings sections elaborates on the steps outlined above.
-		</p>
 		<h3>Articulate a research question</h3>
 		<p style="font-size:18px; margin-top:20px;" align="left">
 			Ask yourself, "What do I want to know?"
