@@ -16,7 +16,7 @@
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-right searching-sra-links">
             <li><a class="scroll hidden" href="#home"></a></li>
-            <li @if(strpos($_SERVER['REQUEST_URI'], "pages/about") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/about">About</a></li>
+            <!-- <li @if(strpos($_SERVER['REQUEST_URI'], "pages/about") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/about">About</a></li> -->
             <li @if(strpos($_SERVER['REQUEST_URI'], "pages/documentation") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/documentation">Documentation</a></li>
             <li @if(strpos($_SERVER['REQUEST_URI'], "pages/contact") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/contact">Contact us</a></li>
             <li @if(strpos($_SERVER['REQUEST_URI'], "pages/citeus") !== false) class="active" @endif><a class="scroll" href="{{ URL::to('/') }}/pages/citeus">Cite this</a></li>
