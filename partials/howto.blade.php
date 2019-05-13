@@ -2,7 +2,7 @@
 	<div class="content">
 		<div class="text-center">
 			<h2 class="text-center">
-				Documentation
+				How to use the Distant Reader
 			</h2>
 			<hr class="separation-line blue-bg" />
 		</div>
