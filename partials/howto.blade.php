@@ -39,7 +39,7 @@
 			<li>What are the actions that take place in the corpus?</li>
 			<li>How are things in my corpus described?</li>
 			<li>What places, organizations, dates &amp; times, number &amp; money amounts are mentioned in my corpus?</li>
-			<li>How can I describe my corpus in a single word? How can I describe my corpus in three words? If I were to divide my corpus into five themes, and each theme were outlined with five words, then what would those themse be and what would the words be?</li>
+			<li>How can I describe my corpus in a single word? How can I describe my corpus in three words? If I were to divide my corpus into five themes, and each theme were enumerated with five words, then what might those themes &amp; words be?</li>
 						</ol>
 		<h3>Identify your input</h3>
 		<p style="font-size:18px; margin-top:20px;" align="left">
