@@ -30,8 +30,15 @@
 			<ol style="font-size:18px; margin-top:20px;" align="left">
 			<li>How many documents are in my corpus?</li>
 			<li>How long are my documents?</li>
-			<li>On a scale between 0 and 100, how difficult are my documents to read?</li>
+			<li>On a scale from 0 to 100, how difficult are my documents to read?</li>
 			<li>What are some of the most statistically significant keywords in my corpus?</li>
+			<li>Count &amp; tabulate all the email addresses in my documents</li>
+			<li>Count &amp; tabulate all the URLs in my documents</li>
+			<li>What is discussed in my corpus?</li>
+			<li>Who are the people in m corpus?</li>
+			<li>What are the actions that take place in the corpus?</li>
+			<li>How are things in my corpus described?</li>
+			<li>What places, organizations, dates &amp; times, number &amp; money amounts are mentioned in my corpus?</li>
 			</ol>
 		<h3>Identify your input</h3>
 		<p style="font-size:18px; margin-top:20px;" align="left">
