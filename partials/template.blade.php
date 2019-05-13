@@ -13,7 +13,7 @@
         Technically speaking, the Distant Reader is a system which locally harvests/caches content you specify. It then transforms the content into plain text, performs sets of natural language processing &amp; text mining against the text, saves the results in a number of formats, reduces the whole to a cross-platform database file, queries the database thus summarizing the collection, zips the results of the entire process into a single file, and makes the file available to you for further investigation -- "reading".
         </p>
 		<p style="font-size:18px; margin-top:20px;" align="left">
-		I don't know about you, but now-a-days I can find plenty of scholarly &amp; authoritative content. My problem is not one of discovery but instead one of comprehension. How do I make sense of all the content I find? The Distant Reader is intended to address this question by making observations against a corpus and providing tools for interpreting the results. It is my hope you will find the tool as useful as I do.
+		I don't know about you, but now-a-days I can find plenty of scholarly &amp; authoritative content. My problem is not one of discovery but instead one of comprehension. <em>How do I make sense of all the content I find?</em> The Distant Reader is intended to address this question by making observations against a corpus and providing tools for interpreting the results. It is my hope you will find the tool as useful as I do.
 		</p>
 		<p style="font-size:18px; margin-top:20px;" align="right">
 		Eric Lease Morgan &lt;<a href="mailto:emorgan@nd.edu">emorgan@nd.edu</a>&gt;<br />
