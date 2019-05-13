@@ -21,6 +21,9 @@
 		</ol>
 		<p style="font-size:18px; margin-top:20px;" align="left">
 		There is a lot of information there, and believe me, the process is faster the second time around.</p>
+
+			<hr class="separation-line blue-bg" />
+
 		<h3>Articulate a research question</h3>
 		<p style="font-size:18px; margin-top:20px;" align="left">
 			Ask yourself, "What do I want to know?"
@@ -48,7 +51,7 @@
 		</p>
 		<h3>Download your "study carrel"</h3>
 		<p style="font-size:18px; margin-top:20px;" align="left">
-		The results of the Distant Reader process is a "study carrel" -- a .zip file containing your original content, various transformations of it, and varius sets of analysis.</p>
+		The results of the Distant Reader process is a "study carrel" -- a .zip file containing your original content, various transformations of it, and various sets of analysis.</p>
 		<h3>Read</h3>
 		<p style="font-size:18px; margin-top:20px;" align="left">
 		Use the contents of the "study carrel" to suppliment  your usual reading process.
@@ -56,7 +59,7 @@
 		
 				<p style="font-size:18px; margin-top:20px;" align="right">
 			Eric Lease Morgan &lt;<a href="mailto:emorgan@nd.edu">emorgan@nd.edu</a>&gt;<br />
-			April 21, 2019 
+			May 13, 2019 
 		</p>
 	</div>
 </div>
