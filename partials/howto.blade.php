@@ -31,9 +31,10 @@
 			<li>How many documents are in my corpus?</li>
 			<li>How long are my documents?</li>
 			<li>On a scale from 0 to 100, how difficult are my documents to read?</li>
+			<li>How can I summarize each document in my corpus?</li>
 			<li>What are some of the most statistically significant keywords in my corpus?</li>
-			<li>Count &amp; tabulate all the email addresses in my documents</li>
-			<li>Count &amp; tabulate all the URLs in my documents</li>
+			<li>Count &amp; tabulate all the email addresses in my documents.</li>
+			<li>Count &amp; tabulate all the URLs in my documents.</li>
 			<li>What is discussed in my corpus?</li>
 			<li>Who are the people in my corpus?</li>
 			<li>What are the actions that take place in the corpus?</li>
