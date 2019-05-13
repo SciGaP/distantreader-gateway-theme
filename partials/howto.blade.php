@@ -35,13 +35,13 @@
 		</p>
 		<h3>Create an account</h3>
 		<p style="font-size:18px; margin-top:20px;" align="left">
-		If you haven't already done so, create an account.</p>
+		If you haven't already done so, <a href="/create">create an account</a>.</p>
 		
-		<p style="font-size:18px; margin-top:20px;" align="left">The Distant Reader process creates its "study carrels" for you, and consequently the Reader needs to know for whom it is doing its work. Your employer may already be affiliated with the Reader's authentication process, and if so, you will not need to create an account. Otherwise, you will need to tell us a bit about yourself. The process is harmless. We promise. 
+		<p style="font-size:18px; margin-top:20px;" align="left">The Distant Reader process creates its "study carrels" for you, and consequently the Reader needs to know for whom it is doing its processing. Your employer may already be affiliated with the Reader's authentication process, and if so, you will not need to create an account. Otherwise, you will need to tell us a bit about yourself. The process is harmless. We promise. 
 		</p>
 		<h3>Log in</h3>
 		<p style="font-size:18px; margin-top:20px;" align="left">
-		Authenticate yourself; let the Distant Reader know for whom it is doing its good work.
+		<a href="/login">Authenticate</a> yourself; let the Distant Reader know for whom it is doing its good work.
 		</p>
 		<h3>Submit your input</h3>
 		<p style="font-size:18px; margin-top:20px;" align="left">
