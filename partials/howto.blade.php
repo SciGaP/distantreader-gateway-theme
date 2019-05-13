@@ -26,9 +26,15 @@
 
 		<h3>Articulate a research question</h3>
 		<p style="font-size:18px; margin-top:20px;" align="left">
-			Ask yourself, "What do I want to know?"
-		</p>
-		
+			Ask yourself, "What do I want to know?"</p>
+		<p style="font-size:18px; margin-top:20px;" align="left">
+			The answer to this question can range from the simple to the sublime, for example:</p>
+			<ol style="font-size:18px; margin-top:20px;" align="left">
+			<li>How many documents are in my corpus?</li>
+			<li>How long are my documents?</li>
+			<li>On a scale between 0 and 100, how difficult are my documents read?</li>
+			<li>What are some of the most statistically significant keywords in my corpus?</li>
+			</o>
 		<h3>Identify your input</h3>
 		<p style="font-size:18px; margin-top:20px;" align="left">
 		The input can be any one of the following three things: a URL, a file of URLs, or just about any set of files on your computer.
