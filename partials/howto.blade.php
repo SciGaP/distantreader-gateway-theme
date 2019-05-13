@@ -34,7 +34,7 @@
 			<li>How long are my documents?</li>
 			<li>On a scale between 0 and 100, how difficult are my documents read?</li>
 			<li>What are some of the most statistically significant keywords in my corpus?</li>
-			</o>
+			</ol>
 		<h3>Identify your input</h3>
 		<p style="font-size:18px; margin-top:20px;" align="left">
 		The input can be any one of the following three things: a URL, a file of URLs, or just about any set of files on your computer.
