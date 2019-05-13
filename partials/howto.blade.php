@@ -35,7 +35,7 @@
 			<li>Count &amp; tabulate all the email addresses in my documents</li>
 			<li>Count &amp; tabulate all the URLs in my documents</li>
 			<li>What is discussed in my corpus?</li>
-			<li>Who are the people in m corpus?</li>
+			<li>Who are the people in my corpus?</li>
 			<li>What are the actions that take place in the corpus?</li>
 			<li>How are things in my corpus described?</li>
 			<li>What places, organizations, dates &amp; times, number &amp; money amounts are mentioned in my corpus?</li>
