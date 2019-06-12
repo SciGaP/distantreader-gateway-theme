@@ -6,7 +6,7 @@
 			</h2>
 			<hr class="separation-line blue-bg" />
 		</div>
-		<p style="font-size:18px; margin-top:20px;" align="left">
+		<p>
 			This page describes what Distant Reader "study carrels" are and how to use them. --ELM
 		</p>
 		
