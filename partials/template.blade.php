@@ -32,7 +32,7 @@
 		</ul>
 	</li>
     
-	<li style="font-size:18px; margin-top:20px;" align="left">Code4Lib Journal - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/code4lib-journal.zip">http://dh.crc.nd.edu/sandbox/reader/hackaton/code4lib-journal.zip</a>
+	<li style="font-size:18px; margin-top:20px;" align="left">Code4Lib Journal - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/code4lib-journal/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/code4lib-journal.zip">data set</a>
 <ul>
 	<li style="font-size:18px;" align="left">1,234,348 words; 303 documents; 286 uncompressed MB</li>
 	<li style="font-size:18px;" align="left">all articles from a journal named Code4Lib Journal</li>
@@ -40,14 +40,14 @@
 
 	</li>
     
-	<li style="font-size:18px; margin-top:20px;" align="left">aesthetics - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/aesthetics.zip">http://dh.crc.nd.edu/sandbox/reader/hackaton/aesthetics.zip</a>
+	<li style="font-size:18px; margin-top:20px;" align="left">aesthetics - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/aesthetics/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/aesthetics.zip">data set</a>
 <ul>
 	<li style="font-size:18px;" align="left">2,296,890 words; 37 documents; 287 uncompressed MB</li>
 	<li style="font-size:18px;" align="left">books classified as the philosophy of art</li>
 </ul>
 
 	</li>
-	<li style="font-size:18px; margin-top:20px;" align="left">love stories - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/love-stories.zip">http://dh.crc.nd.edu/sandbox/reader/hackaton/love-stories.zip</a>
+	<li style="font-size:18px; margin-top:20px;" align="left">love stories - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/love-stories/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/love-stories.zip">data set</a>
 		<ul>
 			<li style="font-size:18px;" align="left">238,374,038 words; 460 documents; 5.94 uncompressed GB</li>
 			<li style="font-size:18px;" align="left">books classified as love stories</li>
