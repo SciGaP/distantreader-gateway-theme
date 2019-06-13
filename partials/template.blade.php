@@ -25,12 +25,11 @@
 		</ul>
 	</li>
     
-	<li style="font-size:18px; margin-top:20px;" align="left">Plato - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/plato.zip">http://dh.crc.nd.edu/sandbox/reader/hackaton/plato.zip</a>
-<ul>
-	<li style="font-size:18px;" align="left">929,704 words; 24 documents; 112 uncompressed MB</li>
-	<li style="font-size:18px;" align="left">the complete works of Plato</li>
-</ul>
-
+	<li style="font-size:18px; margin-top:20px;" align="left">Plato - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/plato/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/plato.zip">data set</a>
+		<ul>
+			<li style="font-size:18px;" align="left">929,704 words; 24 documents; 112 uncompressed MB</li>
+			<li style="font-size:18px;" align="left">the complete works of Plato</li>
+		</ul>
 	</li>
     
 	<li style="font-size:18px; margin-top:20px;" align="left">Code4Lib Journal - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/code4lib-journal.zip">http://dh.crc.nd.edu/sandbox/reader/hackaton/code4lib-journal.zip</a>
