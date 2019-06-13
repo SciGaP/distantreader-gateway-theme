@@ -14,47 +14,47 @@
         </p>
 
         <p style="font-size:18px; margin-top:20px;" align="left">
-        Here is a list of sample corpora, their generic outputs, and links to their data sets:
+        Here is a list of sample corpora, their about pages, and links to their data sets:
         </p>
 
-<ul>
-	<li style="font-size:18px; margin-top:20px;" align="left">Cultural Analytics - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/cultural-analytics/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/cultural-analytics.zip">data set</a>
 		<ul>
-			<li style="font-size:18px;" align="left">318,287 words; 33 documents; 67 uncompressed MB</li>
-			<li style="font-size:18px;" align="left">all articles from a journal named Cultural Analytics</li>
-		</ul>
-	</li>
-    
-	<li style="font-size:18px; margin-top:20px;" align="left">Plato - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/plato/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/plato.zip">data set</a>
-		<ul>
-			<li style="font-size:18px;" align="left">929,704 words; 24 documents; 112 uncompressed MB</li>
-			<li style="font-size:18px;" align="left">the complete works of Plato</li>
-		</ul>
-	</li>
-    
-	<li style="font-size:18px; margin-top:20px;" align="left">Code4Lib Journal - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/code4lib-journal/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/code4lib-journal.zip">data set</a>
-<ul>
-	<li style="font-size:18px;" align="left">1,234,348 words; 303 documents; 286 uncompressed MB</li>
-	<li style="font-size:18px;" align="left">all articles from a journal named Code4Lib Journal</li>
-</ul>
+			<li style="font-size:18px; margin-top:20px;" align="left">Cultural Analytics - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/cultural-analytics/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/cultural-analytics.zip">data set</a>
+				<ul>
+					<li style="font-size:18px;" align="left">318,287 words; 33 documents; 67 uncompressed MB</li>
+					<li style="font-size:18px;" align="left">all articles from a journal named <a href="https://culturalanalytics.org">Cultural Analytics</a> as of June 1, 2019</li>
+				</ul>
+			</li>
+	
+			<li style="font-size:18px; margin-top:20px;" align="left">Plato - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/plato/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/plato.zip">data set</a>
+				<ul>
+					<li style="font-size:18px;" align="left">929,704 words; 24 documents; 112 uncompressed MB</li>
+					<li style="font-size:18px;" align="left"><a href="http://dh.crc.nd.edu/sandbox/gutenberg/cgi-bin/search.cgi?query=author%3A%22Plato%22">the complete works of Plato</a></li>
+				</ul>
+			</li>
+	
+			<li style="font-size:18px; margin-top:20px;" align="left">Code4Lib Journal - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/code4lib-journal/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/code4lib-journal.zip">data set</a>
+				<ul>
+					<li style="font-size:18px;" align="left">1,234,348 words; 303 documents; 286 uncompressed MB</li>
+					<li style="font-size:18px;" align="left">all articles from a journal named <a href="http://journal.code4lib.org">Code4Lib Journal</a> as of June 1, 2019</li>
+				</ul>
+			</li>
+	
+			<li style="font-size:18px; margin-top:20px;" align="left">aesthetics - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/aesthetics/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/aesthetics.zip">data set</a>
+				<ul>
+					<li style="font-size:18px;" align="left">2,296,890 words; 37 documents; 287 uncompressed MB</li>
+					<li style="font-size:18px;" align="left"><a href="http://dh.crc.nd.edu/sandbox/gutenberg/cgi-bin/search.cgi?query=+subject%3A%22Aesthetics%22">books classified as the philosophy of art</a></li>
+				</ul>
 
-	</li>
-    
-	<li style="font-size:18px; margin-top:20px;" align="left">aesthetics - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/aesthetics/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/aesthetics.zip">data set</a>
-<ul>
-	<li style="font-size:18px;" align="left">2,296,890 words; 37 documents; 287 uncompressed MB</li>
-	<li style="font-size:18px;" align="left">books classified as the philosophy of art</li>
-</ul>
+			</li>
+			
+			<li style="font-size:18px; margin-top:20px;" align="left">love stories - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/love-stories/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/love-stories.zip">data set</a>
+				<ul>
+					<li style="font-size:18px;" align="left">238,374,038 words; 460 documents; 5.94 uncompressed GB</li>
+					<li style="font-size:18px;" align="left"><a href="http://dh.crc.nd.edu/sandbox/gutenberg/cgi-bin/search.cgi?query=subject%3A%22Love+stories%22">books classified as love stories</a></li>
+				</ul>
+			</li>
 
-	</li>
-	<li style="font-size:18px; margin-top:20px;" align="left">love stories - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/love-stories/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/love-stories.zip">data set</a>
-		<ul>
-			<li style="font-size:18px;" align="left">238,374,038 words; 460 documents; 5.94 uncompressed GB</li>
-			<li style="font-size:18px;" align="left">books classified as love stories</li>
 		</ul>
-	</li>
-
-</ul>
 
 
 		<p style="font-size:18px; margin-top:20px;" align="left">
@@ -62,7 +62,7 @@
 		</p>
 		<p style="font-size:18px; margin-top:20px;" align="right">
 		Eric Lease Morgan &lt;<a href="mailto:emorgan@nd.edu">emorgan@nd.edu</a>&gt;<br />
-		April 16, 2019
+		June 13, 2019
 		</p>
 
 
