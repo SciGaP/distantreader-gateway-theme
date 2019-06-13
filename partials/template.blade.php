@@ -25,33 +25,33 @@
 		</ul>
 	</li>
     
-	<li>Plato - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/plato.zip">http://dh.crc.nd.edu/sandbox/reader/hackaton/plato.zip</a>
+	<li style="font-size:18px; margin-top:20px;" align="left">Plato - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/plato.zip">http://dh.crc.nd.edu/sandbox/reader/hackaton/plato.zip</a>
 <ul>
-	<li>929,704 words; 24 documents; 112 uncompressed MB</li>
-	<li>the complete works of Plato</li>
+	<li style="font-size:18px; margin-top:20px;" align="left">929,704 words; 24 documents; 112 uncompressed MB</li>
+	<li style="font-size:18px; margin-top:20px;" align="left">the complete works of Plato</li>
 </ul>
 
 	</li>
     
-	<li>Code4Lib Journal - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/code4lib-journal.zip">http://dh.crc.nd.edu/sandbox/reader/hackaton/code4lib-journal.zip</a>
+	<li style="font-size:18px; margin-top:20px;" align="left">Code4Lib Journal - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/code4lib-journal.zip">http://dh.crc.nd.edu/sandbox/reader/hackaton/code4lib-journal.zip</a>
 <ul>
-	<li>1,234,348 words; 303 documents; 286 uncompressed MB</li>
-	<li>all articles from a journal named Code4Lib Journal</li>
+	<li style="font-size:18px; margin-top:20px;" align="left">1,234,348 words; 303 documents; 286 uncompressed MB</li>
+	<li style="font-size:18px; margin-top:20px;" align="left">all articles from a journal named Code4Lib Journal</li>
 </ul>
 
 	</li>
     
-	<li>aesthetics - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/aesthetics.zip">http://dh.crc.nd.edu/sandbox/reader/hackaton/aesthetics.zip</a>
+	<li style="font-size:18px; margin-top:20px;" align="left">aesthetics - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/aesthetics.zip">http://dh.crc.nd.edu/sandbox/reader/hackaton/aesthetics.zip</a>
 <ul>
-	<li>2,296,890 words; 37 documents; 287 uncompressed MB</li>
-	<li>books classified as the philosophy of art</li>
+	<li style="font-size:18px; margin-top:20px;" align="left">2,296,890 words; 37 documents; 287 uncompressed MB</li>
+	<li style="font-size:18px; margin-top:20px;" align="left">books classified as the philosophy of art</li>
 </ul>
 
 	</li>
-	<li>love stories - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/love-stories.zip">http://dh.crc.nd.edu/sandbox/reader/hackaton/love-stories.zip</a>
+	<li style="font-size:18px; margin-top:20px;" align="left">love stories - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/love-stories.zip">http://dh.crc.nd.edu/sandbox/reader/hackaton/love-stories.zip</a>
 		<ul>
-			<li>238,374,038 words; 460 documents; 5.94 uncompressed GB</li>
-			<li>books classified as love stories</li>
+			<li style="font-size:18px; margin-top:20px;" align="left">238,374,038 words; 460 documents; 5.94 uncompressed GB</li>
+			<li style="font-size:18px; margin-top:20px;" align="left">books classified as love stories</li>
 		</ul>
 	</li>
 
