@@ -18,12 +18,11 @@
         </p>
 
 <ul>
-	<li>Cultural Analytics - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/cultural-analytics/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/cultural-analytics.zip">data set</a>
-<ul>
-	<li>318,287 words; 33 documents; 67 uncompressed MB</li>
-	<li>all articles from a journal named Cultural Analytics</li>
-</ul>
-
+	<li style="font-size:18px; margin-top:20px;" align="left">Cultural Analytics - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/cultural-analytics/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/cultural-analytics.zip">data set</a>
+		<ul>
+			<li style="font-size:18px; margin-top:20px;" align="left">318,287 words; 33 documents; 67 uncompressed MB</li>
+			<li style="font-size:18px; margin-top:20px;" align="left">all articles from a journal named Cultural Analytics</li>
+		</ul>
 	</li>
     
 	<li>Plato - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/plato.zip">http://dh.crc.nd.edu/sandbox/reader/hackaton/plato.zip</a>
