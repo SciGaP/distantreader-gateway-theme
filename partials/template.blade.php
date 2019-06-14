@@ -18,7 +18,7 @@
         </p>
 
 		<ul>
-			<li style="font-size:18px; margin-top:20px;" align="left">Cultural Analytics - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/cultural-analytics/about.html">about page</a>, search, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/cultural-analytics.zip">data set</a>
+			<li style="font-size:18px; margin-top:20px;" align="left">Cultural Analytics - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/cultural-analytics/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/cultural-analytics/cgi-bin/search-solr.cgi">search</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/cultural-analytics.zip">data set</a>
 				<ul>
 					<li style="font-size:18px;" align="left">318,287 words; 33 documents; 67 uncompressed MB</li>
 					<li style="font-size:18px;" align="left">all articles from a journal named <a href="https://culturalanalytics.org">Cultural Analytics</a> as of June 1, 2019</li>
