@@ -25,21 +25,21 @@
 				</ul>
 			</li>
 	
-			<li style="font-size:18px; margin-top:20px;" align="left">Plato - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/plato/about.html">about page</a>, search, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/plato.zip">data set</a>
+			<li style="font-size:18px; margin-top:20px;" align="left">Plato - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/plato/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/plato/cgi-bin/search-solr.cgi">search</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/plato.zip">data set</a>
 				<ul>
 					<li style="font-size:18px;" align="left">929,704 words; 24 documents; 112 uncompressed MB</li>
 					<li style="font-size:18px;" align="left"><a href="http://dh.crc.nd.edu/sandbox/gutenberg/cgi-bin/search.cgi?query=author%3A%22Plato%22">the complete works of Plato</a></li>
 				</ul>
 			</li>
 	
-			<li style="font-size:18px; margin-top:20px;" align="left">Code4Lib Journal - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/code4lib-journal/about.html">about page</a>, search, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/code4lib-journal.zip">data set</a>
+			<li style="font-size:18px; margin-top:20px;" align="left">Code4Lib Journal - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/code4lib-journal/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/code4lib-journal/cgi-bin/search-solr.cgi">search</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/code4lib-journal.zip">data set</a>
 				<ul>
 					<li style="font-size:18px;" align="left">1,234,348 words; 303 documents; 286 uncompressed MB</li>
 					<li style="font-size:18px;" align="left">all articles from a journal named <a href="http://journal.code4lib.org">Code4Lib Journal</a> as of June 1, 2019</li>
 				</ul>
 			</li>
 	
-			<li style="font-size:18px; margin-top:20px;" align="left">aesthetics - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/aesthetics/about.html">about page</a>, search, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/aesthetics.zip">data set</a>
+			<li style="font-size:18px; margin-top:20px;" align="left">aesthetics - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/aesthetics/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/aesthetics/cgi-bin/search-solr.cgi">search</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/aesthetics.zip">data set</a>
 				<ul>
 					<li style="font-size:18px;" align="left">2,296,890 words; 37 documents; 287 uncompressed MB</li>
 					<li style="font-size:18px;" align="left"><a href="http://dh.crc.nd.edu/sandbox/gutenberg/cgi-bin/search.cgi?query=+subject%3A%22Aesthetics%22">books classified as the philosophy of art</a></li>
@@ -47,7 +47,7 @@
 
 			</li>
 			
-			<li style="font-size:18px; margin-top:20px;" align="left">love stories - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/love-stories/about.html">about page</a>, search, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/love-stories.zip">data set</a>
+			<li style="font-size:18px; margin-top:20px;" align="left">love stories - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/love-stories/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/love-stories/cgi-bin/search-solr.cgi">search</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/love-stories.zip">data set</a>
 				<ul>
 					<li style="font-size:18px;" align="left">238,374,038 words; 460 documents; 5.94 uncompressed GB</li>
 					<li style="font-size:18px;" align="left"><a href="http://dh.crc.nd.edu/sandbox/gutenberg/cgi-bin/search.cgi?query=subject%3A%22Love+stories%22">books classified as love stories</a></li>
