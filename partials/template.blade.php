@@ -22,7 +22,7 @@
 		</p>
 		<p style="font-size:18px; margin-top:20px;" align="right">
 		Eric Lease Morgan &lt;<a href="mailto:emorgan@nd.edu">emorgan@nd.edu</a>&gt;<br />
-		June 14, 2019
+		August 21, 2019
 		</p>
 
 
