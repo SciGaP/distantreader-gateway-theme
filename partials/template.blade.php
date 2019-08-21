@@ -14,7 +14,7 @@
         </p>
 
         <p style="font-size:18px; margin-top:20px;" align="left">
-        A list of published "study carrels" -- the output of the Distant Reader is available at <a href="http://carrels.distantreader.org">http://carrels.distantreader.org</a>."
+        A list of published "study carrels" -- the output of the Distant Reader is available at <a href="http://carrels.distantreader.org">http://carrels.distantreader.org</a>.
         </p>
 
 		<p style="font-size:18px; margin-top:20px;" align="left">
