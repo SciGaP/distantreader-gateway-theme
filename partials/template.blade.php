@@ -14,48 +14,8 @@
         </p>
 
         <p style="font-size:18px; margin-top:20px;" align="left">
-        Here is a list of sample corpora, their about pages, and links to their data sets:
+        A list of published "study carrels" -- the output of the Distant Reader is available at <a href="http://carrels.distantreader.org">http://carrels.distantreader.org</a>."
         </p>
-
-		<ul>
-			<li style="font-size:18px; margin-top:20px;" align="left">Cultural Analytics - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/cultural-analytics/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/cultural-analytics/cgi-bin/search-solr.cgi">search</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/cultural-analytics.zip">data set</a>
-				<ul>
-					<li style="font-size:18px;" align="left">318,287 words; 33 documents; 67 uncompressed MB</li>
-					<li style="font-size:18px;" align="left">all articles from a journal named <a href="https://culturalanalytics.org">Cultural Analytics</a> as of June 1, 2019</li>
-				</ul>
-			</li>
-	
-			<li style="font-size:18px; margin-top:20px;" align="left">Plato - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/plato/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/plato/cgi-bin/search-solr.cgi">search</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/plato.zip">data set</a>
-				<ul>
-					<li style="font-size:18px;" align="left">929,704 words; 24 documents; 112 uncompressed MB</li>
-					<li style="font-size:18px;" align="left"><a href="http://dh.crc.nd.edu/sandbox/gutenberg/cgi-bin/search.cgi?query=author%3A%22Plato%22">the complete works of Plato</a></li>
-				</ul>
-			</li>
-	
-			<li style="font-size:18px; margin-top:20px;" align="left">Code4Lib Journal - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/code4lib-journal/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/code4lib-journal/cgi-bin/search-solr.cgi">search</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/code4lib-journal.zip">data set</a>
-				<ul>
-					<li style="font-size:18px;" align="left">1,234,348 words; 303 documents; 286 uncompressed MB</li>
-					<li style="font-size:18px;" align="left">all articles from a journal named <a href="http://journal.code4lib.org">Code4Lib Journal</a> as of June 1, 2019</li>
-				</ul>
-			</li>
-	
-			<li style="font-size:18px; margin-top:20px;" align="left">aesthetics - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/aesthetics/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/aesthetics/cgi-bin/search-solr.cgi">search</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/aesthetics.zip">data set</a>
-				<ul>
-					<li style="font-size:18px;" align="left">2,296,890 words; 37 documents; 287 uncompressed MB</li>
-					<li style="font-size:18px;" align="left"><a href="http://dh.crc.nd.edu/sandbox/gutenberg/cgi-bin/search.cgi?query=+subject%3A%22Aesthetics%22">books classified as the philosophy of art</a></li>
-				</ul>
-
-			</li>
-			
-			<li style="font-size:18px; margin-top:20px;" align="left">love stories - <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/love-stories/about.html">about page</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/love-stories/cgi-bin/search-solr.cgi">search</a>, <a href="http://dh.crc.nd.edu/sandbox/reader/hackaton/love-stories.zip">data set</a>
-				<ul>
-					<li style="font-size:18px;" align="left">238,374,038 words; 460 documents; 5.94 uncompressed GB</li>
-					<li style="font-size:18px;" align="left"><a href="http://dh.crc.nd.edu/sandbox/gutenberg/cgi-bin/search.cgi?query=subject%3A%22Love+stories%22">books classified as love stories</a></li>
-				</ul>
-			</li>
-
-		</ul>
-
 
 		<p style="font-size:18px; margin-top:20px;" align="left">
 		I don't know about you, but now-a-days I can find plenty of scholarly &amp; authoritative content. My problem is not one of discovery but instead one of comprehension. <em>How do I make sense of all the content I find?</em> The Distant Reader is intended to address this question by making observations against a corpus and providing tools for interpreting the results. It is my hope you will find the tool as useful as I do.
