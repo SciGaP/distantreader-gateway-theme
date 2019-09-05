@@ -45,15 +45,15 @@ body{
 .credits {
 	margin-top: 100px;
 }
-/*
+
 .panel-body > .form-group, .queue-block, .compute-resource-summary-page, .wall-time-summary-page, .cpu-count-summary-page, .node-count-summary-page, .queue-summary-page, #compute-resource, label[for="compute-resource"] {
 	display: none;
 }
-*/
-/*
+
+
 .compute-resource-summary, .compute-resource {
 	display:none;
-}*/
+}
 
 /*
 	Custom Styling Ends
